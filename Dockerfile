@@ -1,4 +1,4 @@
-FROM --platform=linux/amd64 alpine:3.17.2
+FROM --platform=linux/amd64 alpine:3.24.1
 
 COPY . ./app
 
