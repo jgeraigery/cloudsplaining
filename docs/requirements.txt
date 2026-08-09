@@ -9,6 +9,6 @@ mkdocstrings==0.29.1
 mkdocstrings-python==1.16.10
 mkdocstrings-python-legacy==0.2.6
 Pygments==2.19.1
-pymdown-extensions==10.15
+pymdown-extensions==11.0.1
 pytkdocs==0.16.5
 docutils==0.21.2
